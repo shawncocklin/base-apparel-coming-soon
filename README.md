@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flex-grid-and-css-custom-properties-f3hbh5vG85)
 - Live Site URL: [GitHub Pages](https://shawncocklin.github.io/base-apparel-coming-soon/)
 
 ## My process
@@ -45,6 +45,5 @@ This was a fairly straight forward challenge, but something new I did learn is t
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@shawncocklin](https://www.frontendmentor.io/profile/shawncocklin)
+- GutHub - [@shawncocklin](https://github.com/shawncocklin)
